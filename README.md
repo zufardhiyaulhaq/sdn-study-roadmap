@@ -26,3 +26,21 @@ You must learn all of this to better understanding about software defined networ
 </p>
 
 Im recommend you to learn the `IT Automation` software like Ansible. Mastering the protocol `netconf` and some python modules to support automation.
+
+### Hybrid Software Defined Networking
+---
+<p align="center">
+<img src="https://raw.githubusercontent.com/zufardhiyaulhaq/sdn-study-roadmap/master/images/sdn-hybrid.png">
+</p>
+
+Hybrid Software Defined Networking is focusing on `NETCONF+YANG`, Its better to understanding `YANG Data Modeling` and some tools like ncclient & yang-explorer.
+
+### Pure Software Defined Networking
+---
+<p align="center">
+<img src="https://raw.githubusercontent.com/zufardhiyaulhaq/sdn-study-roadmap/master/images/sdn-pure.png">
+</p>
+
+Pure SDN its more about `openflow`, try to understanding the protocol before learn `P4`. 
+
+> This roadmap is creating by me, its open to suggest. discuss with me in telegram @zufardhiyaulhaq or by creating issue in repository.
