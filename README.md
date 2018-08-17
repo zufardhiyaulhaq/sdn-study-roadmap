@@ -6,7 +6,10 @@ Below, you can find a set of charts that need to be learn to master Software Def
 ### Requirement
 ---
 When you want to learn SDN, you must master the programming. below is the images how you will learn the programming path.
-![mainsdn](https://raw.githubusercontent.com/zufardhiyaulhaq/sdn-study-roadmap/master/images/programing.png)
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/zufardhiyaulhaq/sdn-study-roadmap/master/images/programming.png">
+</p>
 
 You need to choose the language, im recommend python for you because mayne people use this language and its easy to learn. You need to master API & data flow between the API (JSON,XML).
 
@@ -14,4 +17,12 @@ You need to choose the language, im recommend python for you because mayne peopl
 ---
 ![mainsdn](https://raw.githubusercontent.com/zufardhiyaulhaq/sdn-study-roadmap/master/images/sdn.png)
 
+You must learn all of this to better understanding about software defined networking.
 
+### Network Programability & Automation
+---
+<p align="center">
+<img src="https://raw.githubusercontent.com/zufardhiyaulhaq/sdn-study-roadmap/master/images/programability-automation.png">
+</p>
+
+Im recommend you to learn the `IT Automation` software like Ansible. Mastering the protocol `netconf` and some python modules to support automation.
